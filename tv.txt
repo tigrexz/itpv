@@ -1,10 +1,4 @@
-💎扫码联系我们💎,#genre#
-扫码联系我们,https://cccimg.com/down.php/57c96f71c64c3062126155222608a097.mp4
 
-💎微信：jhiptv💎,#genre#
-微信：jhiptv,https://cccimg.com/down.php/57c96f71c64c3062126155222608a097.mp4
-
-🔆央视频道🔆,#genre#
 CCTV-1,http://112.80.203.154:9003/hls/100/index.m3u8
 CCTV-1,http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,https://hyf000.eu.org/80947108/CCTV1-1
